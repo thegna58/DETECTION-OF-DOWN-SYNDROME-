@@ -1,1 +1,2 @@
 # DETECTION-OF-DOWN-SYNDROME-
+ —This research aims to enhance the detection of Downsyndrome using a combination of automated image annotation, object detection, and classification techniques. Ultrasound images were annotated through a coded process to mark regions of interest (ROIs) indicative of Down syndrome. Utilizing YOLOv8, the system was trained to accurately identify these ROIs.Subsequently, a pre-trained VGG network was fine-tuned with a labeled dataset to classify the identified regions as either indicative of Down syndrome or normal.
